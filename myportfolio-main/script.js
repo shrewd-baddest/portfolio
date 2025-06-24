@@ -1,4 +1,5 @@
  
+
 const menuicon = document.getElementById("menu_icon");
 const navbar = document.getElementById("navbar");
   let parentelem=navbar.closest('.header')
@@ -47,4 +48,3 @@ isElementCreated = false;
 
          }})
 
- 
